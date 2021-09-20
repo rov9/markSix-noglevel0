@@ -41,6 +41,10 @@ footer{
     margin:0rem;
 }
 
+footer,p{
+color:#FBBF24;
+}
+
 #span
 {
  color: #FBBF24;

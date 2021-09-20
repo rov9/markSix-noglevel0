@@ -2,7 +2,7 @@ var userInput=document.querySelector("#user-input");
 var btnClick=document.querySelector("#btn-Click");
 var outputMessage=document.querySelector("#outputMessage");
 
-var serverURL = "https://api.funtranslations.com/translate/orcish.json";
+var serverURL = "https://api.funtranslations.com/translate/minion.json";
 
 function getTranslationURL(input) {
     return serverURL + "?" + "text=" + input
