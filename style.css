@@ -24,8 +24,9 @@ h1{
 #user-input{
     display:block;
     margin:auto;
-    width: 60%;
+    width: 50%;
     padding: 1rem;
+    border-radius: 1rem;
 }
 
 button{
@@ -37,6 +38,14 @@ button{
     border-radius: 10px;
     border: 1px solid var(--black);
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+textarea{
+    width:50%;
+    margin: auto;
+    display: block;
+    padding: 1rem;
+    border-radius: 1rem;
 }
 
 footer{
