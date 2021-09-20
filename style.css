@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Glory:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overlock:ital@1&display=swap');
+:root{
+    --primary: #FBBF24;
+    --black: #333333;
+}
+.container{
+    margin: auto;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+body{
+    font-family:'Glory', sans-serif;
+}
+h1{
+    background-color: rgba(255, 218, 8, 0.575);
+    padding: 3rem;
+}
+
+input{
+    display:block;
+    margin:auto;
+    width: 60%;
+    padding: 1rem;
+}
+
+button{
+    width: 15%;
+    font-family:'Glory', sans-serif;
+    font-weight: 700;
+    font-size: medium;
+    margin-top: 1rem;
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    padding: 4rem;
+    margin:0rem;
+}
+
+#span
+{
+ color: #FBBF24;
+}
