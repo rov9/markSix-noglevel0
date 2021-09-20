@@ -33,6 +33,7 @@ button{
     font-weight: 700;
     font-size: medium;
     margin-top: 1rem;
+    outline: #333333;;
 }
 
 footer{
